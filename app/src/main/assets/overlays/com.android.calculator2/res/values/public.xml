@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="mipmap" name="ic_launcher_calculator" id="0x7f020000" />
+    <public type="bool" name="use_window_light_status_bar" id="0x7f030000" />
+    <public type="color" name="calculator_accent_color" id="0x7f040000" />
+    <public type="color" name="calculator_error_color" id="0x7f040001" />
+    <public type="color" name="calculator_primary_color" id="0x7f040002" />
+    <public type="color" name="calculator_primary_dark_color" id="0x7f040003" />
+    <public type="color" name="calculator_secondary_text_color" id="0x7f040004" />
+    <public type="color" name="calculator_statusbar_color" id="0x7f040005" />
+    <public type="color" name="calculator_tertiary_text_color" id="0x7f040006" />
+    <public type="color" name="dialog_button_text_color" id="0x7f040007" />
+    <public type="color" name="dialog_color_background" id="0x7f040008" />
+    <public type="color" name="dialog_message_text_color" id="0x7f040009" />
+    <public type="color" name="dialog_title_text_color" id="0x7f04000a" />
+    <public type="color" name="display_background_color" id="0x7f04000b" />
+    <public type="color" name="display_formula_text_color" id="0x7f04000c" />
+    <public type="color" name="display_result_text_color" id="0x7f04000d" />
+    <public type="color" name="empty_history_color" id="0x7f04000e" />
+    <public type="color" name="empty_history_icon_color" id="0x7f04000f" />
+    <public type="color" name="history_item_date_text_color" id="0x7f040010" />
+    <public type="color" name="history_toolbar_background_color" id="0x7f040011" />
+    <public type="color" name="history_toolbar_control_color" id="0x7f040012" />
+    <public type="color" name="history_toolbar_title_color" id="0x7f040013" />
+    <public type="color" name="pad_advanced_background_color" id="0x7f040014" />
+    <public type="color" name="pad_button_advanced_ripple_color" id="0x7f040015" />
+    <public type="color" name="pad_button_advanced_text_color" id="0x7f040016" />
+    <public type="color" name="pad_button_ripple_color" id="0x7f040017" />
+    <public type="color" name="pad_button_text_color" id="0x7f040018" />
+    <public type="color" name="pad_numeric_background_color" id="0x7f040019" />
+    <public type="color" name="pad_operator_background_color" id="0x7f04001a" />
+    <public type="color" name="popup_menu_background_color" id="0x7f04001b" />
+    <public type="color" name="popup_menu_text_color" id="0x7f04001c" />
+</resources>

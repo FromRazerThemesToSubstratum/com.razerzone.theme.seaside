@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="use_window_light_status_bar" id="0x7f020000" />
+    <public type="color" name="accent_color" id="0x7f030000" />
+    <public type="color" name="blocked_numbers_button_text_color" id="0x7f030001" />
+    <public type="color" name="blocked_numbers_color_accent" id="0x7f030002" />
+    <public type="color" name="dialer_settings_actionbar_text_color" id="0x7f030003" />
+    <public type="color" name="dialer_settings_color_accent" id="0x7f030004" />
+    <public type="color" name="dialer_settings_color_dark" id="0x7f030005" />
+    <public type="color" name="dialer_settings_color_primary" id="0x7f030006" />
+    <public type="color" name="text_color" id="0x7f030007" />
+    <public type="color" name="theme_color" id="0x7f030008" />
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#ff678aa2</color>
+    <color name="blocked_numbers_button_text_color">#ff54432d</color>
+    <color name="blocked_numbers_color_accent">#ff54432d</color>
+    <color name="dialer_settings_actionbar_text_color">#ffabb3be</color>
+    <color name="dialer_settings_color_accent">#ff54432d</color>
+    <color name="dialer_settings_color_dark">#ff1e2028</color>
+    <color name="dialer_settings_color_primary">#ff54432d</color>
+    <color name="text_color">#ff678aa2</color>
+    <color name="theme_color">#ff54432d</color>
+</resources>

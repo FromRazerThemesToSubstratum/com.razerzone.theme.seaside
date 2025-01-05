@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="Homescreen Wallpaper">
+        <link>https://raw.githubusercontent.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/refs/heads/kt-n/wallpaper/wallpaper.png</link>
+        <preview>https://raw.githubusercontent.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/refs/heads/kt-n/wallpaper/wallpaper.png</preview>
+    </wallpaper>
+    <wallpaper id="Lockscreen Wallpaper">
+        <link>https://raw.githubusercontent.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/refs/heads/kt-n/wallpaper/lockscreen.png</link>
+        <preview>https://raw.githubusercontent.com/FromRazerThemesToSubstratum/com.razerzone.theme.seaside/refs/heads/kt-n/wallpaper/lockscreen.png</preview>
+    </wallpaper>
+</substratum>

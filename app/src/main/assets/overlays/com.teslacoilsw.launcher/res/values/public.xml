@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="all_apps_grid_section_text_color" id="0x7f020000" />
+    <public type="color" name="appsearch_darkfg_hint" id="0x7f020001" />
+    <public type="color" name="appsearch_darkfg_icon" id="0x7f020002" />
+    <public type="color" name="appsearch_lightfg_hint" id="0x7f020003" />
+    <public type="color" name="appsearch_lightfg_icon" id="0x7f020004" />
+    <public type="color" name="background_floating_material_dark" id="0x7f020005" />
+    <public type="color" name="background_floating_material_light" id="0x7f020006" />
+    <public type="color" name="backup_adapter_item_text_color" id="0x7f020007" />
+    <public type="color" name="backup_adapter_section_text_color" id="0x7f020008" />
+    <public type="color" name="badge_settings_text_color_normal" id="0x7f020009" />
+    <public type="color" name="bright_foreground_material_dark" id="0x7f02000a" />
+    <public type="color" name="bright_foreground_material_light" id="0x7f02000b" />
+    <public type="color" name="cardIdleBackground" id="0x7f02000c" />
+    <public type="color" name="folder_edge_effect_color" id="0x7f02000d" />
+    <public type="color" name="foreground_material_dark" id="0x7f02000e" />
+    <public type="color" name="foreground_material_light" id="0x7f02000f" />
+    <public type="color" name="liam_gray" id="0x7f020010" />
+    <public type="color" name="liam_gray_night" id="0x7f020011" />
+    <public type="color" name="primary_text_color" id="0x7f020012" />
+    <public type="color" name="primary_text_default_material_dark" id="0x7f020013" />
+    <public type="color" name="prime_text_color" id="0x7f020014" />
+    <public type="color" name="quantum_panel_dark" id="0x7f020015" />
+    <public type="color" name="ripple_material_dark" id="0x7f020016" />
+    <public type="color" name="ripple_material_light" id="0x7f020017" />
+    <public type="color" name="searchback_stroke_color" id="0x7f020018" />
+    <public type="color" name="searchbarbuilder_bar_style_background" id="0x7f020019" />
+    <public type="color" name="secondary_text_default_material_dark" id="0x7f02001a" />
+    <public type="color" name="secondary_text_default_material_light" id="0x7f02001b" />
+    <public type="color" name="secondary_text_disabled_material_dark" id="0x7f02001c" />
+    <public type="color" name="secondary_text_disabled_material_light" id="0x7f02001d" />
+    <public type="color" name="switch_thumb_normal_material_dark" id="0x7f02001e" />
+    <public type="color" name="switch_thumb_normal_material_light" id="0x7f02001f" />
+    <public type="color" name="theme_color_primary" id="0x7f020020" />
+    <public type="color" name="theme_color_primary_dark" id="0x7f020021" />
+    <public type="color" name="theme_dark_color_accent" id="0x7f020022" />
+    <public type="color" name="theme_dark_color_primary" id="0x7f020023" />
+    <public type="color" name="theme_dark_color_primary_dark" id="0x7f020024" />
+    <public type="color" name="widget_text_panel" id="0x7f020025" />
+    <public type="color" name="widgetdrawer_shortcut_textcolor" id="0x7f020026" />
+    <public type="color" name="widgetdrawer_textcolor" id="0x7f020027" />
+    <public type="color" name="windowBackground" id="0x7f020028" />
+    <public type="color" name="windowBackgroundNight" id="0x7f020029" />
+    <public type="color" name="workspace_edge_effect_color" id="0x7f02002a" />
+</resources>

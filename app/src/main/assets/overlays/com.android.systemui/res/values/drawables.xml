@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="heads_up_notification_bg_pressed">#4dbfbab4</item>
+</resources>
